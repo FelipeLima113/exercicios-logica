@@ -6,7 +6,6 @@
 //3 – Multiplicação
 //4 – Divisão
 //5 - Sair
-
 import java.util.Scanner;
 
 public class AtividadeAvaliativa {
